@@ -1,0 +1,40 @@
+
+h1 {color: blue;
+}
+
+li {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+.html-list {
+    list-style-type: square;
+}
+.css-list {
+    color: orange;
+}
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+body{
+    color: rebeccapurple;
+}
+.center-list{
+    width: 50%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+input, label {
+    display: block;
+    margin-top: .3em;
+}
